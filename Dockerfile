@@ -1,3 +1,3 @@
 FROM nginx
 
-RUN sleep 1100
+RUN sleep 10
